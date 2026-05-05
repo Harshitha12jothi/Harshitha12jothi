@@ -2,6 +2,8 @@
 ## 👋 About Me<br><br>Hi, I'm **Harshitha Jothi** 🌸  <br><br>💻 Passionate **Computer Science Student** & **MERN Stack Developer**  <br><br>🚀 Building modern web applications with **React.js, Node.js, Express.js & MongoDB**  <br><br>📚 Constant learner, exploring new technologies every day  <br><br>💡 Love turning creative ideas into real-world projects  <br><br>🌱 Currently improving my skills in **Full Stack Development**  <br><br>✨ Open to learning, collaboration, and new opportunities
 
 
+📄 **Resume:** [Click Here to View My Resume](https://drive.google.com/file/d/1vl-Vpa4cTojffgF-sg_57SAOwVemfWcD/view?usp=drive_link)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshithajothi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshithajothi2005@gmail.com) 
 
